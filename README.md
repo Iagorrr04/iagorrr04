@@ -2,7 +2,9 @@
 
   Iagorrr#3176
 <p>
-  <img alingn="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> 
+
+  [![Discord DM](https://img.shields.io/badge/Discord-Iagorrr%233176-7289DA?logo=Discord&style=for-the-badge&logoColor=white)](https://discordapp.com/users/692551222976184352/)
+
 </p>
 
 <div>
