@@ -1,6 +1,6 @@
 # Hiii
 
-<text alingn = "center">
+<text align = "center">
 
   [![Discord DM](https://img.shields.io/badge/Discord-Iagorrr%233176-7289DA?logo=Discord&style=for-the-badge&logoColor=white)](https://discordapp.com/users/692551222976184352/)
 
