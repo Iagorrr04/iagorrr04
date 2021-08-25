@@ -13,6 +13,8 @@
 
 
 <div>
+  <p alingn = "center">
      <img alingn="center" src="https://profile-counter.glitch.me/iagorr04/count.svg" />
+  </p>
 </div>
 
