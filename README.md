@@ -1,9 +1,9 @@
 # Hi, i'm Iago
 **About me:**
-- ?? I'm a software engenieering student at vaction.
-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> I'm learning data structure with C by my self and also for some competitions.
+- I'm a software engenieering student at vaction.
+- I'm learning data structure with C by my self and also for some competitions.
 - I'm learning python to have some fun with pygame and also help my friends.
-- ?? I've recently started at the web devlopment world but don't have any specifc goal at the moment.
+- I've recently started at the web devlopment world but don't have any specifc goal at the moment.
 
 
 <div>
