@@ -1,4 +1,4 @@
-# Hi, i'm Iago
+# Hi
 **About me:**
 - I'm a software engenieering student at vaction.
 - I'm learning data structure with C by my self and also for some competitions.
