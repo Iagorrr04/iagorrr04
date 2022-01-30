@@ -8,8 +8,10 @@
 
 </div>
 <div>
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iagorrr04&theme=dark&show_icons=true&hide_border=true" />
+</div>
+
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorrr04&layout=compact&theme=dark&show_icons=true&hide_border=true" />
 </div>
 
