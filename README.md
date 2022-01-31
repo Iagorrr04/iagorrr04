@@ -1,6 +1,6 @@
 # Hi ?
 
-### Current learning:
+### i'm current learning:
 <div align="center">
  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
